@@ -1,6 +1,6 @@
 # Scraping Instagram profilees
 
-File [inst_scraping.py]() contains code for scraping Instagram profiles with the help of [Selenium](https://www.selenium.dev/). The initial idea of the project was to collect data on Instagram shops by category. The objective included obtain profile statistics and search for keywords in the bio to test marketing hypotheses. Two ways of working with JSON objects obtained with [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) were suggested, these are `dict` and [@dataclass](https://docs.python.org/3/library/dataclasses.html). 
+File [inst_scraping.py](https://github.com/coolyashovaaa/InstagramScraping/blob/main/inst_scraping.py) contains code for scraping Instagram profiles with the help of [Selenium](https://www.selenium.dev/). The initial idea of the project was to collect data on Instagram shops by category. The objective included obtain profile statistics and search for keywords in the bio to test marketing hypotheses. Two ways of working with JSON objects obtained with [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) were suggested, these are `dict` and [@dataclass](https://docs.python.org/3/library/dataclasses.html). 
 
 ## Dictionary
 
